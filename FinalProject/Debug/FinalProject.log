@@ -1,0 +1,27 @@
+﻿  academic.cpp
+D:\KHTN\CS\CS162\FinalProject\FinalProject\academic.cpp(37,20): warning C4018: '<': signed/unsigned mismatch
+  add_import_students.cpp
+  consoleEdit.cpp
+D:\KHTN\CS\CS162\FinalProject\FinalProject\consoleEdit.cpp(19,28): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\KHTN\CS\CS162\FinalProject\FinalProject\consoleEdit.cpp(19,34): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  CourseMod.cpp
+D:\KHTN\CS\CS162\FinalProject\FinalProject\CourseMod.cpp(238,18): warning C4101: 'compr3': unreferenced local variable
+D:\KHTN\CS\CS162\FinalProject\FinalProject\CourseMod.cpp(237,20): warning C4101: 'compr2': unreferenced local variable
+D:\KHTN\CS\CS162\FinalProject\FinalProject\CourseMod.cpp(606,29): warning C4101: 'ch': unreferenced local variable
+D:\KHTN\CS\CS162\FinalProject\FinalProject\CourseMod.cpp(680,29): warning C4101: 'ch': unreferenced local variable
+  deleteData.cpp
+  loadData.cpp
+  main.cpp
+  ModClassAndStudent.cpp
+  rewriteTextFile.cpp
+  systemMenu.cpp
+  viewData.cpp
+  Generating Code...
+D:\KHTN\CS\CS162\FinalProject\FinalProject\ModClassAndStudent.cpp(73): warning C4715: 'checkClass': not all control paths return a value
+D:\KHTN\CS\CS162\FinalProject\FinalProject\CourseMod.cpp(138): warning C4715: 'checkCourse': not all control paths return a value
+D:\KHTN\CS\CS162\FinalProject\FinalProject\CourseMod.cpp(36): warning C4715: 'checkAcademicY': not all control paths return a value
+D:\KHTN\CS\CS162\FinalProject\FinalProject\CourseMod.cpp(70): warning C4715: 'checkSemester': not all control paths return a value
+D:\KHTN\CS\CS162\FinalProject\FinalProject\CourseMod.cpp(172): warning C4715: 'checkStudent': not all control paths return a value
+D:\KHTN\CS\CS162\FinalProject\FinalProject\CourseMod.cpp(230): warning C4715: 'correctDate': not all control paths return a value
+D:\KHTN\CS\CS162\FinalProject\FinalProject\CourseMod.cpp(104): warning C4715: 'checkClassID': not all control paths return a value
+  FinalProject.vcxproj -> D:\KHTN\CS\CS162\FinalProject\Debug\FinalProject.exe
